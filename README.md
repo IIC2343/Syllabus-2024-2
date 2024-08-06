@@ -14,7 +14,7 @@ En una de las _issues_ pineadas pueden encontrar un ejemplo de uso.
 | Nombre                     | Correo                    | Sección |
 |:--------------------------:|:-------------------------:|:-------:|
 | Susana Figueroa            | sfigueroa3@uc.cl          |    1    |
-| Yadran Eterovic            | frvalenzuela@alumni.uc.cl |    2    |
+| Felipe Valenzuela            | frvalenzuela@alumni.uc.cl |    2    |
 | Germán Contreras           | glcontreras@uc.cl         |    3    |
 
 ### Ayudantes
